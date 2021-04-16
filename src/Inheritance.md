@@ -1,5 +1,3 @@
-참고 사이트 : https://yadon079.github.io/2020/java%20study%20halle/week-06#%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%EB%A9%94%EC%84%9C%EB%93%9C-%EB%94%94%EC%8A%A4%ED%8C%A8%EC%B9%98-dynamic-method-dispatch
-
 ## 상속
 
 ### 자바 상속의 특징
